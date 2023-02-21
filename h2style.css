@@ -1,0 +1,9 @@
+h2{
+    font-family: monospace;
+    border: 2px solid;
+    border-color: gold;
+    background-color: gold;
+}
+ul{
+    list-style-position: inside;
+}
